@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MIERCOLES.ESTRUCTURA.CARMONA.GONZALO\SegundoParcial\bin\Debug\SegundoParcial.exe.config
+C:\Users\User\source\repos\MIERCOLES.ESTRUCTURA.CARMONA.GONZALO\SegundoParcial\bin\Debug\SegundoParcial.exe
+C:\Users\User\source\repos\MIERCOLES.ESTRUCTURA.CARMONA.GONZALO\SegundoParcial\bin\Debug\SegundoParcial.pdb
+C:\Users\User\source\repos\MIERCOLES.ESTRUCTURA.CARMONA.GONZALO\SegundoParcial\obj\Debug\SegundoParcial.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MIERCOLES.ESTRUCTURA.CARMONA.GONZALO\SegundoParcial\obj\Debug\SegundoParcial.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MIERCOLES.ESTRUCTURA.CARMONA.GONZALO\SegundoParcial\obj\Debug\SegundoParcial.exe
+C:\Users\User\source\repos\MIERCOLES.ESTRUCTURA.CARMONA.GONZALO\SegundoParcial\obj\Debug\SegundoParcial.pdb

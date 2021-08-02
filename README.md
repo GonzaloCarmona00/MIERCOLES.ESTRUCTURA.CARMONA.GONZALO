@@ -1,0 +1,2 @@
+# MIERCOLES.ESTRUCTURA.CARMONA.GONZALO
+ En este proyecto realice un restaurante en si, una especie de macdonals, un cliente llega tiene una lista de pedidos que puede ordenar y el elije el que mas le gusta.El mayor salto que di fue la implementacion del MVC, este para poder tener un trabajo mas ordenado y en un futuro poder trabajar en equipo apropiadamente. Ademas de esto empece con la utilizacion de listas y  de pedidos que me permitieron formar listas de espera y de pedidos 
